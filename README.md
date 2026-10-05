@@ -310,7 +310,7 @@
 <tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
 <td align="center" width="220"><b>The Answer Protocol</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/the_answer_protocol.svg" width="130" alt="the_answer_protocol"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/the_answer_protocol.svg" width="180" alt="the_answer_protocol"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
