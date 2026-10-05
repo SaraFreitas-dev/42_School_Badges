@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
-  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
+  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42-School-Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
+  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42-School-Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
 </p>
 
 ---
