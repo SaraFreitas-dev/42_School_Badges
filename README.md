@@ -33,10 +33,10 @@
 ## 🌌 Milestone 0
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>libft</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_0/svg/libft.svg" width="130" alt="libft"/></a></td>
+<td align="center" width="200"><b>libft</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_0/svg/libft.svg" width="200" alt="libft"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 </table>
@@ -54,21 +54,21 @@
 ## 🌌 Milestone 1
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>get_next_line</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/get_next_line.svg" width="130" alt="get_next_line"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/get_next_line-bonus.svg" width="130" alt="get_next_line-bonus"/></a></td>
+<td align="center" width="200"><b>get_next_line</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/get_next_line.svg" width="200" alt="get_next_line"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/get_next_line-bonus.svg" width="200" alt="get_next_line-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>push_swap</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/push_swap.svg" width="130" alt="push_swap"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/push_swap-bonus.svg" width="130" alt="push_swap-bonus"/></a></td>
+<td align="center" width="200"><b>push_swap</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/push_swap.svg" width="200" alt="push_swap"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/push_swap-bonus.svg" width="200" alt="push_swap-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>ft_printf</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/ft_printf.svg" width="130" alt="ft_printf"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/ft_printf-bonus.svg" width="130" alt="ft_printf-bonus"/></a></td>
+<td align="center" width="200"><b>ft_printf</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/ft_printf.svg" width="200" alt="ft_printf"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_1/svg/ft_printf-bonus.svg" width="200" alt="ft_printf-bonus"/></a></td>
 </tr>
 </table>
 
@@ -115,25 +115,25 @@
 ## 🌌 Milestone 2
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>Born2beroot</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/born2beroot.svg" width="130" alt="born2beroot"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/born2beroot-bonus.svg" width="130" alt="born2beroot-bonus"/></a></td>
+<td align="center" width="200"><b>Born2beroot</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/born2beroot.svg" width="200" alt="born2beroot"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/born2beroot-bonus.svg" width="200" alt="born2beroot-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>A-Maze-ing</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/a-maze-ing.svg" width="130" alt="a-maze-ing"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/a-maze-ing-bonus.svg" width="130" alt="a-maze-ing-bonus"/></a></td>
+<td align="center" width="200"><b>A-Maze-ing</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/a-maze-ing.svg" width="200" alt="a-maze-ing"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/a-maze-ing-bonus.svg" width="200" alt="a-maze-ing-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Python Modules 00–10</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/python_modules.svg" width="130" alt="python_modules"/></a></td>
+<td align="center" width="200"><b>Python Modules 00–10</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/python_modules.svg" width="200" alt="python_modules"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Exam Rank 02</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/exam_rank_02.svg" width="130" alt="exam_rank_02"/></a></td>
+<td align="center" width="200"><b>Exam Rank 02</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_2/svg/exam_rank_02.svg" width="200" alt="exam_rank_02"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 </table>
@@ -181,25 +181,25 @@
 ## 🌌 Milestone 3
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>Call Me Maybe</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/call_me_maybe.svg" width="130" alt="call_me_maybe"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/call_me_maybe-bonus.svg" width="130" alt="call_me_maybe-bonus"/></a></td>
+<td align="center" width="200"><b>Call Me Maybe</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/call_me_maybe.svg" width="200" alt="call_me_maybe"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/call_me_maybe-bonus.svg" width="200" alt="call_me_maybe-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Fly-In</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/fly-in.svg" width="130" alt="fly-in"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/fly-in-bonus.svg" width="130" alt="fly-in-bonus"/></a></td>
+<td align="center" width="200"><b>Fly-In</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/fly-in.svg" width="200" alt="fly-in"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/fly-in-bonus.svg" width="200" alt="fly-in-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Codexion</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/codexion.svg" width="130" alt="codexion"/></a></td>
+<td align="center" width="200"><b>Codexion</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/codexion.svg" width="200" alt="codexion"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Exam Rank 03</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/exam_rank_03.svg" width="130" alt="exam_rank_03"/></a></td>
+<td align="center" width="200"><b>Exam Rank 03</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_3/svg/exam_rank_03.svg" width="200" alt="exam_rank_03"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 </table>
@@ -247,25 +247,25 @@
 ## 🌌 Milestone 4
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>NetPractice</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/netpractice.svg" width="130" alt="netpractice"/></a></td>
+<td align="center" width="200"><b>NetPractice</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/netpractice.svg" width="200" alt="netpractice"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>RAG against the machine</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/rag_against_the_machine.svg" width="130" alt="rag_against_the_machine"/></a></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/rag_against_the_machine-bonus.svg" width="130" alt="rag_against_the_machine-bonus"/></a></td>
+<td align="center" width="200"><b>RAG against the machine</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/rag_against_the_machine.svg" width="200" alt="rag_against_the_machine"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/rag_against_the_machine-bonus.svg" width="200" alt="rag_against_the_machine-bonus"/></a></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Pacman</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/pacman.svg" width="130" alt="pacman"/></a></td>
+<td align="center" width="200"><b>Pacman</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/pacman.svg" width="200" alt="pacman"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Exam Rank 04</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/exam_rank_04.svg" width="130" alt="exam_rank_04"/></a></td>
+<td align="center" width="200"><b>Exam Rank 04</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_4/svg/exam_rank_04.svg" width="200" alt="exam_rank_04"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 </table>
@@ -307,15 +307,15 @@
 ## 🌌 Milestone 5
 
 <table>
-<tr><th width="220">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
-<td align="center" width="220"><b>The Answer Protocol</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/the_answer_protocol.svg" width="180" alt="the_answer_protocol"/></a></td>
+<td align="center" width="200"><b>The Answer Protocol</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/the_answer_protocol.svg" width="200" alt="the_answer_protocol"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
-<td align="center" width="220"><b>Exam Rank 05</b></td>
-<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/exam_rank_05.svg" width="130" alt="exam_rank_05"/></a></td>
+<td align="center" width="200"><b>Exam Rank 05</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/exam_rank_05.svg" width="200" alt="exam_rank_05"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 </table>
