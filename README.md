@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <sub>The curriculum moved to Python and got a brand-new set of projects — now they have their own achievements.
+  <sub>The curriculum moved to Python and got a brand-new set of projects — now they have their own achievements. <br>
   Finish a project, grab its badge, show it off on your profile. 🏅
   </sub>
 </p>
