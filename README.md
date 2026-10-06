@@ -15,7 +15,7 @@
 ## ✨ How to use
 
 1. Find your project in the tables below.
-2. Click the **copy** button under the badge, then use GitHub's copy icon on the code block that appears.
+2. Open **📋 Copy Milestone N badges** under the table, then use GitHub's copy icon on the code block of the badge you want.
 3. Paste it into your own `README.md`.
 
 **Badge tiers**
@@ -41,7 +41,7 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 0 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 0 badges</h3></summary>
 
 **libft**
 
@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 1 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 1 badges</h3></summary>
 
 **get_next_line**
 
@@ -138,7 +138,7 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 2 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 2 badges</h3></summary>
 
 **born2beroot**
 
@@ -204,7 +204,7 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 3 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 3 badges</h3></summary>
 
 **call_me_maybe**
 
@@ -270,7 +270,7 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 4 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 4 badges</h3></summary>
 
 **netpractice**
 
@@ -309,8 +309,23 @@
 <table>
 <tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
 <tr>
+<td align="center" width="200"><b>Inception</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/inception.svg" width="200" alt="inception"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/inception-bonus.svg" width="200" alt="inception-bonus"/></a></td>
+</tr>
+<tr>
 <td align="center" width="200"><b>The Answer Protocol</b></td>
 <td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/the_answer_protocol.svg" width="200" alt="the_answer_protocol"/></a></td>
+<td align="center" width="300"><b>N/A</b></td>
+</tr>
+<tr>
+<td align="center" width="200"><b>treenity</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/treenity.svg" width="200" alt="treenity"/></a></td>
+<td align="center" width="300"><b>N/A</b></td>
+</tr>
+<tr>
+<td align="center" width="200"><b>Agent Smith</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_5/svg/agent_smith.svg" width="200" alt="agent_smith"/></a></td>
 <td align="center" width="300"><b>N/A</b></td>
 </tr>
 <tr>
@@ -320,7 +335,19 @@
 </tr>
 </table>
 
-<details><summary><kbd>📋 Copy Milestone 5 badges</kbd></summary>
+<details><summary><h3>📋 Copy Milestone 5 badges</h3></summary>
+
+**inception**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception.svg" width="150" alt="inception"/></a>
+```
+
+**inception ★ bonus**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception-bonus.svg" width="150" alt="inception-bonus"/></a>
+```
 
 **the_answer_protocol**
 
@@ -328,10 +355,71 @@
 <a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/the_answer_protocol.svg" width="150" alt="the_answer_protocol"/></a>
 ```
 
+**treenity**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/treenity.svg" width="150" alt="treenity"/></a>
+```
+
+**agent_smith**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/agent_smith.svg" width="150" alt="agent_smith"/></a>
+```
+
 **exam_rank_05**
 
 ```html
 <a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/exam_rank_05.svg" width="150" alt="exam_rank_05"/></a>
+```
+
+</details>
+
+## 🌌 Milestone 6
+
+<table>
+<tr><th width="200">Project</th><th width="300">Badge</th><th width="300">With bonus</th></tr>
+<tr>
+<td align="center" width="200"><b>ft_resume</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_6/svg/ft_resume.svg" width="200" alt="ft_resume"/></a></td>
+<td align="center" width="300"><b>N/A</b></td>
+</tr>
+<tr>
+<td align="center" width="200"><b>ft_transcendence</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_6/svg/ft_transcendence.svg" width="200" alt="ft_transcendence"/></a></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="200" alt="ft_transcendence-bonus"/></a></td>
+</tr>
+<tr>
+<td align="center" width="200"><b>Exam Rank 06</b></td>
+<td align="center" width="300"><a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="Badges/Milestone_6/svg/exam_rank_06.svg" width="200" alt="exam_rank_06"/></a></td>
+<td align="center" width="300"><b>N/A</b></td>
+</tr>
+</table>
+
+<details><summary><h3>📋 Copy Milestone 6 badges</h3></summary>
+
+**ft_resume**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_resume.svg" width="150" alt="ft_resume"/></a>
+```
+
+**ft_transcendence**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence.svg" width="150" alt="ft_transcendence"/></a>
+```
+
+**ft_transcendence ★ bonus**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="150" alt="ft_transcendence-bonus"/></a>
+```
+
+**exam_rank_06**
+
+```html
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/exam_rank_06.svg" width="150" alt="exam_rank_06"/></a>
 ```
 
 </details>
@@ -347,9 +435,7 @@ Badges/
 │   └── png/   ← static
 ├── Milestone_1/
 │   ...
-└── Milestone_5/
-assets/
-└── copy.svg
+└── Milestone_6/
 ```
 
 ---
