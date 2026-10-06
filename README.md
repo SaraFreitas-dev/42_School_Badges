@@ -1,32 +1,52 @@
-<h1 align="center">🚀 42 School Badges</h1>
-
 <p align="center">
-  <b>Collectible achievement badges for the new 42 School Common Core</b><br>
-  <sub>After the curriculum moved to Python, the Common Core got a brand new set of projects — and now they have their own achievements.</sub>
+  <img src="assets/banner.svg" width="100%" alt="42 School Badges"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaraFreitas-dev/42-School-Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42-School-Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
-  <a href="https://github.com/SaraFreitas-dev/42-School-Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42-School-Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
+  <b>Collectible achievement badges for the new 42 Common Core</b><br>
+  <sub>The curriculum moved to Python and got a brand-new set of projects — now they have their own achievements. Finish a project, grab its badge, show it off on your profile. 🏅</sub>
+</p>
+
+<p align="center">
+  <img src="Badges/Milestone_0/svg/libft.svg" width="118" alt="libft"/>
+  <img src="Badges/Milestone_1/svg/push_swap-bonus.svg" width="118" alt="push_swap bonus"/>
+  <img src="Badges/Milestone_2/svg/a-maze-ing.svg" width="118" alt="a-maze-ing"/>
+  <img src="Badges/Milestone_4/svg/exam_rank_04.svg" width="118" alt="exam rank 04"/>
+  <img src="Badges/Milestone_5/svg/agent_smith.svg" width="118" alt="agent smith"/>
+  <img src="Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="118" alt="ft_transcendence bonus"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
+  <img src="https://img.shields.io/badge/Badges-34-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA&labelColor=1a1b27&color=6b3fa0"/>
+  <img src="https://img.shields.io/badge/Milestones-0→6-1a1b27?style=for-the-badge&labelColor=1a1b27&color=6b3fa0"/>
+  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
 </p>
 
 ---
 
 ## ✨ How to use
 
-1. Find your project in the tables below.
-2. Open **📋 Copy Milestone N badges** under the table, then use GitHub's copy icon on the code block of the badge you want.
-3. Paste it into your own `README.md`.
+<table>
+<tr>
+<td align="center" width="33%"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
+<td align="center" width="33%"><h3>2️⃣ Copy</h3>Click <b>Copy badge code</b> under the table and use GitHub's copy icon on the badge you want.</td>
+<td align="center" width="33%"><h3>3️⃣ Show off</h3>Paste it into your profile <code>README.md</code> — done! 🎉</td>
+</tr>
+</table>
 
-**Badge tiers**
+### 🏅 Badge tiers
 
-| Frame | Meaning |
-|:---:|:---|
-| 🟣 Purple | Project completed |
-| 🟡 Gold ★ | Project completed **with bonus** |
-| 🔵 Cyan | Exam passed |
+<table>
+<tr>
+<td align="center" width="33%"><img src="Badges/Milestone_5/svg/agent_smith.svg" width="120" alt="purple"/><br><b>🟣 Purple</b><br><sub>Project completed</sub></td>
+<td align="center" width="33%"><img src="Badges/Milestone_1/svg/ft_printf-bonus.svg" width="120" alt="gold"/><br><b>🟡 Gold ★</b><br><sub>Completed <b>with bonus</b></sub></td>
+<td align="center" width="33%"><img src="Badges/Milestone_6/svg/exam_rank_06.svg" width="120" alt="cyan"/><br><b>🔵 Cyan</b><br><sub>Exam passed</sub></td>
+</tr>
+</table>
 
-> 💡 Badges are animated SVGs. Prefer a static image? Every badge also exists as a **PNG** in the `png/` folder of each milestone inside [`Badges/`](Badges).
+> [!TIP]
+> Badges are **animated SVGs**. Prefer a static image? Every badge also exists as a **PNG** in the `png/` folder of each milestone inside [`Badges/`](Badges).
 
 ---
 
@@ -41,7 +61,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 0 badges</h3></summary>
+<details><summary><a name="copy-m0"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 0 badges"/></a></summary>
 
 **libft**
 
@@ -72,7 +92,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 1 badges</h3></summary>
+<details><summary><a name="copy-m1"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 1 badges"/></a></summary>
 
 **get_next_line**
 
@@ -138,7 +158,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 2 badges</h3></summary>
+<details><summary><a name="copy-m2"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 2 badges"/></a></summary>
 
 **born2beroot**
 
@@ -204,7 +224,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 3 badges</h3></summary>
+<details><summary><a name="copy-m3"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 3 badges"/></a></summary>
 
 **call_me_maybe**
 
@@ -270,7 +290,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 4 badges</h3></summary>
+<details><summary><a name="copy-m4"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 4 badges"/></a></summary>
 
 **netpractice**
 
@@ -335,7 +355,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 5 badges</h3></summary>
+<details><summary><a name="copy-m5"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 5 badges"/></a></summary>
 
 **inception**
 
@@ -396,7 +416,7 @@
 </tr>
 </table>
 
-<details><summary><h3>📋 Copy Milestone 6 badges</h3></summary>
+<details><summary><a name="copy-m6"><img src="assets/copy_button.svg" height="40" alt="Copy Milestone 6 badges"/></a></summary>
 
 **ft_resume**
 

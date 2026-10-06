@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="84" height="28" viewBox="0 0 84 28">
-  <rect x="0.5" y="0.5" width="83" height="27" rx="8" fill="#ffffff" fill-opacity="0.08" stroke="#C792EA" stroke-opacity="0.55"/>
-  <rect x="1.5" y="1.5" width="81" height="12" rx="7" fill="#ffffff" fill-opacity="0.05"/>
-  <g transform="translate(14,7)" fill="none" stroke="#C792EA" stroke-width="1.6" stroke-linejoin="round">
-    <rect x="3" y="3" width="9" height="11" rx="2"/>
-    <path d="M1 10 V2 a2 2 0 0 1 2 -2 h6"/>
-  </g>
-  <text x="50" y="18.5" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12" font-weight="700" fill="#E6E8F2">copy</text>
-</svg>
