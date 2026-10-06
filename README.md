@@ -3,17 +3,20 @@
 </p>
 
 <p align="center">
-  <b>Collectible achievement badges for the new 42 Common Core</b><br>
-  <sub>The curriculum moved to Python and got a brand-new set of projects — now they have their own achievements. Finish a project, grab its badge, show it off on your profile. 🏅
-  </sub>
-</p>
-
-<p align="center">
   <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
   <img src="https://img.shields.io/badge/Badges-34-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA&labelColor=1a1b27&color=6b3fa0"/>
   <img src="https://img.shields.io/badge/Milestones-0→6-1a1b27?style=for-the-badge&labelColor=1a1b27&color=6b3fa0"/>
   <a href="https://github.com/SaraFreitas-dev/42_School_Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
 </p>
+
+<h2 align="center">Collectible achievement badges for the new 42 Common Core</h2>
+
+
+<p align="center">
+  <sub>The curriculum moved to Python and got a brand-new set of projects — now they have their own achievements. Finish a project, grab its badge, show it off on your profile. 🏅
+  </sub>
+</p>
+
 
 <p align="center">
   <img src="Badges/Milestone_0/svg/libft.svg" width="118" alt="libft"/>
