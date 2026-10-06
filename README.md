@@ -29,9 +29,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
-<td align="center" width="33%"><h3>2️⃣ Copy</h3>Click <b>Copy badge code</b> under the table and use GitHub's copy icon on the badge you want.</td>
-<td align="center" width="33%"><h3>3️⃣ Show off</h3>Paste it into your profile <code>README.md</code> — done! 🎉</td>
+<td align="center" width="300"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
+<td align="center" width="300"><h3>2️⃣ Copy</h3>Click <b>Copy badge code</b> under the table and use GitHub's copy icon on the badge you want.</td>
+<td align="center" width="300"><h3>3️⃣ Show off</h3>Paste it into your profile <code>README.md</code> — done! 🎉</td>
 </tr>
 </table>
 
@@ -39,9 +39,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="Badges/Milestone_5/svg/agent_smith.svg" width="120" alt="purple"/><br><b>🟣 Purple</b><br><sub>Project completed</sub></td>
-<td align="center" width="33%"><img src="Badges/Milestone_1/svg/ft_printf-bonus.svg" width="120" alt="gold"/><br><b>🟡 Gold ★</b><br><sub>Completed <b>with bonus</b></sub></td>
-<td align="center" width="33%"><img src="Badges/Milestone_6/svg/exam_rank_06.svg" width="120" alt="cyan"/><br><b>🔵 Cyan</b><br><sub>Exam passed</sub></td>
+<td align="center" width="300"><img src="Badges/Milestone_5/svg/agent_smith.svg" width="120" alt="purple"/><br><b>🟣 Purple</b><br><sub>Project completed</sub></td>
+<td align="center" width="300"><img src="Badges/Milestone_1/svg/ft_printf-bonus.svg" width="120" alt="gold"/><br><b>🟡 Gold ★</b><br><sub>Completed <b>with bonus</b></sub></td>
+<td align="center" width="300"><img src="Badges/Milestone_6/svg/exam_rank_06.svg" width="120" alt="cyan"/><br><b>🔵 Cyan</b><br><sub>Exam passed</sub></td>
 </tr>
 </table>
 
