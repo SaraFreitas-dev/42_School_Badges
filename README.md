@@ -11,15 +11,7 @@
   </sub>
 </p>
 
-
-<p align="center">
-  <img src="Badges/Milestone_0/svg/libft.svg" width="118" alt="libft"/>
-  <img src="Badges/Milestone_1/svg/push_swap-bonus.svg" width="118" alt="push_swap bonus"/>
-  <img src="Badges/Milestone_2/svg/a-maze-ing.svg" width="118" alt="a-maze-ing"/>
-  <img src="Badges/Milestone_4/svg/exam_rank_04.svg" width="118" alt="exam rank 04"/>
-  <img src="Badges/Milestone_5/svg/agent_smith.svg" width="118" alt="agent smith"/>
-  <img src="Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="118" alt="ft_transcendence bonus"/>
-</p>
+<br>
 
 <p align="center">
   <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
