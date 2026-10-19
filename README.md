@@ -14,10 +14,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
   <img src="https://img.shields.io/badge/Badges-34-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA&labelColor=1a1b27&color=6b3fa0"/>
   <img src="https://img.shields.io/badge/Milestones-0→6-1a1b27?style=for-the-badge&labelColor=1a1b27&color=6b3fa0"/>
-  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/issues"><img src="https://img.shields.io/github/issues/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Issues&labelColor=1a1b27&color=6b3fa0"/></a>
+  <a href="https://github.com/SaraFreitas-dev/42_School_Badges/stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev/42_School_Badges?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
 </p>
 
 ---
