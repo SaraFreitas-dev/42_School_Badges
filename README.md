@@ -64,7 +64,7 @@
 **libft**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_0/svg/libft.svg" width="150" alt="libft"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_0/svg/libft.svg" width="300" alt="libft"/></a>
 ```
 
 </details>
@@ -95,37 +95,37 @@
 **get_next_line**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/get_next_line.svg" width="150" alt="get_next_line"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/get_next_line.svg" width="300" alt="get_next_line"/></a>
 ```
 
 **get_next_line ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/get_next_line-bonus.svg" width="150" alt="get_next_line-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/get_next_line-bonus.svg" width="300" alt="get_next_line-bonus"/></a>
 ```
 
 **push_swap**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/push_swap.svg" width="150" alt="push_swap"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/push_swap.svg" width="300" alt="push_swap"/></a>
 ```
 
 **push_swap ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/push_swap-bonus.svg" width="150" alt="push_swap-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/push_swap-bonus.svg" width="300" alt="push_swap-bonus"/></a>
 ```
 
 **ft_printf**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/ft_printf.svg" width="150" alt="ft_printf"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/ft_printf.svg" width="300" alt="ft_printf"/></a>
 ```
 
 **ft_printf ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/ft_printf-bonus.svg" width="150" alt="ft_printf-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_1/svg/ft_printf-bonus.svg" width="300" alt="ft_printf-bonus"/></a>
 ```
 
 </details>
@@ -161,37 +161,37 @@
 **born2beroot**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/born2beroot.svg" width="150" alt="born2beroot"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/born2beroot.svg" width="300" alt="born2beroot"/></a>
 ```
 
 **born2beroot ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/born2beroot-bonus.svg" width="150" alt="born2beroot-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/born2beroot-bonus.svg" width="300" alt="born2beroot-bonus"/></a>
 ```
 
 **a-maze-ing**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/a-maze-ing.svg" width="150" alt="a-maze-ing"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/a-maze-ing.svg" width="300" alt="a-maze-ing"/></a>
 ```
 
 **a-maze-ing ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/a-maze-ing-bonus.svg" width="150" alt="a-maze-ing-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/a-maze-ing-bonus.svg" width="300" alt="a-maze-ing-bonus"/></a>
 ```
 
 **python_modules**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/python_modules.svg" width="150" alt="python_modules"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/python_modules.svg" width="300" alt="python_modules"/></a>
 ```
 
 **exam_rank_02**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/exam_rank_02.svg" width="150" alt="exam_rank_02"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_2/svg/exam_rank_02.svg" width="300" alt="exam_rank_02"/></a>
 ```
 
 </details>
@@ -227,37 +227,37 @@
 **call_me_maybe**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/call_me_maybe.svg" width="150" alt="call_me_maybe"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/call_me_maybe.svg" width="300" alt="call_me_maybe"/></a>
 ```
 
 **call_me_maybe ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/call_me_maybe-bonus.svg" width="150" alt="call_me_maybe-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/call_me_maybe-bonus.svg" width="300" alt="call_me_maybe-bonus"/></a>
 ```
 
 **fly-in**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/fly-in.svg" width="150" alt="fly-in"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/fly-in.svg" width="300" alt="fly-in"/></a>
 ```
 
 **fly-in ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/fly-in-bonus.svg" width="150" alt="fly-in-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/fly-in-bonus.svg" width="300" alt="fly-in-bonus"/></a>
 ```
 
 **codexion**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/codexion.svg" width="150" alt="codexion"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/codexion.svg" width="300" alt="codexion"/></a>
 ```
 
 **exam_rank_03**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/exam_rank_03.svg" width="150" alt="exam_rank_03"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_3/svg/exam_rank_03.svg" width="300" alt="exam_rank_03"/></a>
 ```
 
 </details>
@@ -293,31 +293,31 @@
 **netpractice**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/netpractice.svg" width="150" alt="netpractice"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/netpractice.svg" width="300" alt="netpractice"/></a>
 ```
 
 **rag_against_the_machine**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/rag_against_the_machine.svg" width="150" alt="rag_against_the_machine"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/rag_against_the_machine.svg" width="300" alt="rag_against_the_machine"/></a>
 ```
 
 **rag_against_the_machine ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/rag_against_the_machine-bonus.svg" width="150" alt="rag_against_the_machine-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/rag_against_the_machine-bonus.svg" width="300" alt="rag_against_the_machine-bonus"/></a>
 ```
 
 **pacman**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/pacman.svg" width="150" alt="pacman"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/pacman.svg" width="300" alt="pacman"/></a>
 ```
 
 **exam_rank_04**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/exam_rank_04.svg" width="150" alt="exam_rank_04"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_4/svg/exam_rank_04.svg" width="300" alt="exam_rank_04"/></a>
 ```
 
 </details>
@@ -358,37 +358,37 @@
 **inception**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception.svg" width="150" alt="inception"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception.svg" width="300" alt="inception"/></a>
 ```
 
 **inception ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception-bonus.svg" width="150" alt="inception-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/inception-bonus.svg" width="300" alt="inception-bonus"/></a>
 ```
 
 **the_answer_protocol**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/the_answer_protocol.svg" width="150" alt="the_answer_protocol"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/the_answer_protocol.svg" width="300" alt="the_answer_protocol"/></a>
 ```
 
 **treenity**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/treenity.svg" width="150" alt="treenity"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/treenity.svg" width="300" alt="treenity"/></a>
 ```
 
 **agent_smith**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/agent_smith.svg" width="150" alt="agent_smith"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/agent_smith.svg" width="300" alt="agent_smith"/></a>
 ```
 
 **exam_rank_05**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/exam_rank_05.svg" width="150" alt="exam_rank_05"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_5/svg/exam_rank_05.svg" width="300" alt="exam_rank_05"/></a>
 ```
 
 </details>
@@ -419,25 +419,25 @@
 **ft_resume**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_resume.svg" width="150" alt="ft_resume"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_resume.svg" width="300" alt="ft_resume"/></a>
 ```
 
 **ft_transcendence**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence.svg" width="150" alt="ft_transcendence"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence.svg" width="300" alt="ft_transcendence"/></a>
 ```
 
 **ft_transcendence ★ bonus**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="150" alt="ft_transcendence-bonus"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/ft_transcendence-bonus.svg" width="300" alt="ft_transcendence-bonus"/></a>
 ```
 
 **exam_rank_06**
 
 ```html
-<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/exam_rank_06.svg" width="150" alt="exam_rank_06"/></a>
+<a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/42_School_Badges/main/Badges/Milestone_6/svg/exam_rank_06.svg" width="300" alt="exam_rank_06"/></a>
 ```
 
 </details>
