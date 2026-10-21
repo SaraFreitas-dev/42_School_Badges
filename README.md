@@ -11,7 +11,7 @@
   </sub>
 </p>
 
-<br>
+<br> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Badges-34-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA&labelColor=1a1b27&color=6b3fa0"/>
