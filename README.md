@@ -35,8 +35,6 @@
 
 ## ✨ How to use
 
-## ✨ How to use
-
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
