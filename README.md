@@ -35,16 +35,22 @@
 
 ## ✨ How to use
 
+## ✨ How to use
+
 <table>
 <tr>
-<td align="center" width="250"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
-<td align="center" width="250"><h3>2️⃣ Copy</h3>Click <b>Copy badge code</b> under the table and use GitHub's copy icon on the badge you want.</td>
-<td align="center" width="250"><h3>3️⃣ Show off</h3>Paste it into your profile <code>README.md</code> — done! 🎉</td>
+<td align="center" valign="top" width="33%"><h3>1️⃣ Find</h3>Look for your project in the milestone tables below.</td>
+<td align="center" valign="top" width="33%"><h3>2️⃣ Copy</h3>Open <b>Copy badge code</b> and copy the badge you want.</td>
+<td align="center" valign="top" width="33%"><h3>3️⃣ Show off</h3>Paste it into your profile <code>README.md</code> — done! 🎉</td>
 </tr>
 </table>
+<br>
+
 
 > [!TIP]
 > Badges are **animated SVGs**. Prefer a static image? Every badge also exists as a **PNG** in the `png/` folder of each milestone inside [`Badges/`](Badges).
+
+<br>
 
 ---
 
