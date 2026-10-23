@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07080d"/><stop offset="1" stop-color="#151827"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9fbff"/><stop offset=".5" stop-color="#1d5f6e"/><stop offset="1" stop-color="#36d6e7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".45" r=".5">
+      <stop offset="0" stop-color="#36d6e7" stop-opacity=".22"/><stop offset="1" stop-color="#36d6e7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="in"><polygon points="200.0,32.0 336.8,111.0 336.8,269.0 200.0,348.0 63.2,269.0 63.2,111.0"/></clipPath>
+    <style>
+      .st{fill:#cfd3ff;opacity:.3;animation:tw 4s ease-in-out infinite}
+      @keyframes tw{50%{opacity:.9}}
+      .cur{animation:bl 1.1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
+      .sw{animation:sw 3s ease-in-out infinite;transform-box:view-box}
+      @keyframes sw{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+      .bob{animation:bob 2.4s ease-in-out infinite} @keyframes bob{50%{transform:translateY(3px)}}
+      .flick{animation:fl .35s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:50% 0}
+      @keyframes fl{to{transform:scaleY(.82)}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .mono{font-family:'Fira Code','JetBrains Mono',Consolas,monospace}
+    </style>
+  </defs>
+
+  <!-- moldura -->
+  <polygon points="200.0,18.0 349.0,104.0 349.0,276.0 200.0,362.0 51.0,276.0 51.0,104.0" fill="url(#rim)" stroke-linejoin="round"/>
+  <polygon points="200.0,30.0 338.6,110.0 338.6,270.0 200.0,350.0 61.4,270.0 61.4,110.0" fill="#0b0c12"/>
+
+  <!-- cena interior -->
+  <g clip-path="url(#in)">
+    <rect width="400" height="400" fill="url(#sky)"/>
+    <circle cx="200" cy="175" r="120" fill="url(#glow)"/>
+    <circle class="st" style="animation-delay:3.1s" cx="278" cy="116" r="1.3"/><circle class="st" style="animation-delay:3.7s" cx="305" cy="168" r="1.3"/><circle class="st" style="animation-delay:1.5s" cx="134" cy="125" r="1"/><circle class="st" style="animation-delay:2.8s" cx="145" cy="137" r="1"/><circle class="st" style="animation-delay:2.6s" cx="150" cy="177" r="1.3"/><circle class="st" style="animation-delay:2.1s" cx="234" cy="129" r="1"/><circle class="st" style="animation-delay:1.8s" cx="183" cy="82" r="1"/><circle class="st" style="animation-delay:3.0s" cx="129" cy="121" r="1.3"/><circle class="st" style="animation-delay:2.9s" cx="285" cy="181" r="1.3"/><circle class="st" style="animation-delay:1.3s" cx="267" cy="87" r="1"/><circle class="st" style="animation-delay:3.6s" cx="150" cy="92" r="1.3"/><circle class="st" style="animation-delay:1.7s" cx="139" cy="167" r="0.8"/><circle class="st" style="animation-delay:0.0s" cx="156" cy="86" r="0.8"/><circle class="st" style="animation-delay:0.8s" cx="304" cy="127" r="0.8"/><circle class="st" style="animation-delay:1.4s" cx="241" cy="76" r="0.8"/><circle class="st" style="animation-delay:3.3s" cx="258" cy="115" r="1"/>
+    <path d="M30 300 L95 250 L140 275 L205 225 L265 270 L320 245 L380 290 L380 400 L30 400 Z" fill="#181b29"/>
+    <path d="M30 330 Q120 300 200 320 T380 315 L380 400 L30 400 Z" fill="#0f111a"/>
+  </g>
+
+  <!-- emblema -->
+  <g transform="translate(200,192)">
+  <defs>
+    <filter id="a3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5"/></filter>
+    <filter id="a10" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+    <clipPath id="ac"><polygon points="0.0,-160.0 136.8,-81.0 136.8,77.0 0.0,156.0 -136.8,77.0 -136.8,-81.0"/></clipPath>
+    <radialGradient id="skin" cx=".38" cy=".28" r=".85"><stop offset="0" stop-color="#e6fff6"/><stop offset=".45" stop-color="#9fe0cf"/><stop offset=".85" stop-color="#4f9c95"/><stop offset="1" stop-color="#2b5d63"/></radialGradient>
+    <linearGradient id="suit" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3560"/><stop offset="1" stop-color="#151227"/></linearGradient>
+    <linearGradient id="trim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36d6e7"/><stop offset=".5" stop-color="#c9fbff"/><stop offset="1" stop-color="#36d6e7"/></linearGradient>
+    <radialGradient id="eye" cx=".45" cy=".35" r=".8"><stop offset="0" stop-color="#1b2a3a"/><stop offset=".6" stop-color="#070a12"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2f3a"/><stop offset="1" stop-color="#03090d"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#5ee7f3" stop-opacity=".55"/><stop offset="1" stop-color="#5ee7f3" stop-opacity="0"/></linearGradient>
+    <style>
+      .blinkA{animation:bA 5s infinite;transform-box:fill-box;transform-origin:50% 50%}@keyframes bA{0%,94%,100%{transform:scaleY(1)}97%{transform:scaleY(.08)}}
+      .holo{animation:holo 3s ease-in-out infinite}@keyframes holo{50%{opacity:.75}}
+      .led{animation:led 1.4s steps(1) infinite}@keyframes led{50%{opacity:.25}}
+    </style>
+  </defs>
+  <ellipse cx="0" cy="-20" rx="88" ry="88" fill="#36d6e7" opacity=".2" filter="url(#a10)"/>
+  <g class="bob">
+   <g clip-path="url(#ac)">
+    <!-- suit -->
+    <path d="M-70 140 Q-68 70 -44 52 Q-30 42 -16 40 L16 40 Q30 42 44 52 Q68 70 70 140 Z" fill="url(#suit)" stroke="#0b0a18" stroke-width="1.8"/>
+    <path d="M-44 56 Q-58 70 -62 100" fill="none" stroke="#5d5880" stroke-width="1.6" opacity=".7"/>
+    <path d="M-20 42 L-8 64 M20 42 L8 64" stroke="url(#trim)" stroke-width="2" opacity=".85"/>
+    <!-- chest panel -->
+    <rect x="-24" y="66" width="48" height="30" rx="4" fill="url(#scr)" stroke="#0b0a18" stroke-width="1.3"/>
+    <rect x="-24" y="66" width="48" height="30" rx="4" fill="none" stroke="#36d6e7" stroke-width=".9" opacity=".75"/>
+    <text class="mono" x="-20" y="76" font-size="5.6" font-weight="700" fill="#8b949e" letter-spacing=".8">TESTS</text>
+    <text class="mono" x="20" y="76" text-anchor="end" font-size="6" font-weight="800" fill="#9be29b">10/10</text>
+    <rect x="-20" y="80" width="40" height="4.5" rx="2.2" fill="#9be29b"/>
+    <circle class="led" cx="16" cy="90" r="2" fill="#9be29b"/>
+    <path d="M-20 90 H6" stroke="#36d6e7" stroke-width="1.8" stroke-linecap="round" opacity=".55"/>
+   </g>
+   <!-- collar + neck -->
+   <path d="M-10 18 Q-8 36 -12 44 L12 44 Q8 36 10 18 Z" fill="url(#skin)" stroke="#0b0a18" stroke-width="1.4"/>
+   <path d="M-26 44 Q0 54 26 44 L22 38 Q0 46 -22 38 Z" fill="url(#suit)" stroke="#0b0a18" stroke-width="1.4"/>
+   <path d="M-24 41 Q0 50 24 41" fill="none" stroke="url(#trim)" stroke-width="1.6"/>
+   <!-- head -->
+   <path d="M0 -100 C 44 -100 64 -70 60 -42 C 56 -16 30 6 12 20 Q 0 28 -12 20 C -30 6 -56 -16 -60 -42 C -64 -70 -44 -100 0 -100 Z" fill="url(#skin)" stroke="#0b0a18" stroke-width="1.8"/>
+   <path d="M-34 -86 Q-16 -96 6 -94" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+   <path d="M-10 -96 Q-4 -78 -8 -62 M10 -96 Q4 -78 8 -62" fill="none" stroke="#2b5d63" stroke-width="1.2" opacity=".35"/>
+   <!-- eyes -->
+   <g class="blinkA">
+     <path d="M-50 -46 Q-44 -64 -24 -58 Q-8 -52 -10 -36 Q-26 -28 -42 -34 Q-52 -38 -50 -46 Z" fill="url(#eye)" stroke="#0b0a18" stroke-width="1.4"/>
+     <path d="M50 -46 Q44 -64 24 -58 Q8 -52 10 -36 Q26 -28 42 -34 Q52 -38 50 -46 Z" fill="url(#eye)" stroke="#0b0a18" stroke-width="1.4"/>
+     <ellipse cx="-34" cy="-52" rx="6" ry="3" fill="#fff" opacity=".85" transform="rotate(-20 -34 -52)"/>
+     <ellipse cx="26" cy="-53" rx="6" ry="3" fill="#fff" opacity=".85" transform="rotate(20 26 -53)"/>
+     <path d="M-44 -40 Q-32 -34 -18 -38" fill="none" stroke="#5ee7f3" stroke-width="1.6" opacity=".7"/>
+     <path d="M44 -40 Q32 -34 18 -38" fill="none" stroke="#5ee7f3" stroke-width="1.6" opacity=".7"/>
+   </g>
+   <!-- nose + mouth -->
+   <circle cx="-2.4" cy="-14" r="1" fill="#2b5d63"/><circle cx="2.4" cy="-14" r="1" fill="#2b5d63"/>
+   <path d="M-5 -1 L5 -1" fill="none" stroke="#2b5d63" stroke-width="1.6" stroke-linecap="round"/>
+   <!-- right arm + slender hand projecting terminal -->
+   <path d="M44 54 Q66 64 60 82" fill="none" stroke="#0b0a18" stroke-width="13" stroke-linecap="round"/>
+   <path d="M44 54 Q66 64 60 82" fill="none" stroke="url(#suit)" stroke-width="10" stroke-linecap="round"/>
+   <rect x="52" y="76" width="16" height="6" rx="2" fill="#36d6e7" stroke="#0b0a18" stroke-width="1"/>
+   <path d="M58 84 Q56 74 52 70 M60 84 Q62 72 60 66 M62 84 Q68 76 70 70" fill="none" stroke="#0b0a18" stroke-width="5" stroke-linecap="round"/>
+   <path d="M58 84 Q56 74 52 70 M60 84 Q62 72 60 66 M62 84 Q68 76 70 70" fill="none" stroke="#7fc9bb" stroke-width="3" stroke-linecap="round"/>
+   <g class="holo">
+     <polygon points="60,66 66,36 108,30" fill="url(#beam)"/>
+     <g transform="translate(88,18) rotate(-8)">
+       <rect x="-26" y="-20" width="52" height="38" rx="4" fill="#062a33" fill-opacity=".85" stroke="#5ee7f3" stroke-width="1.4"/>
+       <line x1="-26" y1="-12" x2="26" y2="-12" stroke="#5ee7f3" stroke-width=".8" opacity=".7"/>
+       <circle cx="-21" cy="-16" r="1.4" fill="#ff5f56"/><circle cx="-16.5" cy="-16" r="1.4" fill="#ffbd2e"/><circle cx="-12" cy="-16" r="1.4" fill="#27c93f"/>
+       <text class="mono" x="-21" y="-3" font-size="6.5" font-weight="800" fill="#5ee7f3">&gt;_</text>
+       <rect x="-11" y="-7" width="26" height="2.8" rx="1.4" fill="#e6e8f2" opacity=".8"/>
+       <rect x="-21" y="0" width="12" height="2.8" rx="1.4" fill="#C792EA"/><rect x="-7" y="0" width="20" height="2.8" rx="1.4" fill="#e6e8f2" opacity=".5"/>
+       <rect x="-21" y="6" width="18" height="2.8" rx="1.4" fill="#ffd27a"/><rect x="-1" y="6" width="12" height="2.8" rx="1.4" fill="#e6e8f2" opacity=".5"/>
+       <rect class="cur" x="-21" y="11.5" width="4.5" height="3.6" fill="#5ee7f3"/>
+     </g>
+   </g>
+  </g>
+  </g>
+
+  <!-- marcador do milestone -->
+  <g transform="translate(200,30)">
+    <rect x="-52" y="-14" width="104" height="28" rx="14" fill="#0b0c12" stroke="#36d6e7" stroke-width="2"/>
+    <text class="mono" x="0" y="6" text-anchor="middle" font-size="15" font-weight="700" fill="#36d6e7">PRACTICE</text>
+  </g>
+
+  <!-- fita com o nome -->
+  <g transform="translate(200,330)">
+    <rect x="-130" y="-26" width="260" height="52" rx="12" fill="#0b0c12" stroke="url(#rim)" stroke-width="3"/>
+    <text class="mono" x="0" y="10" text-anchor="middle" font-size="23.5" font-weight="700" fill="#e6e8f2"><tspan fill="#36d6e7">./</tspan>PracticeShell<tspan class="cur" fill="#36d6e7">_</tspan></text>
+    
+  </g>
+</svg>
