@@ -458,6 +458,13 @@ Badges/
 
 ---
 
+## ⚠️ Disclaimer
+
+This is an **unofficial, community-made project**, created for fun and shared with fellow students.
+It is not affiliated with or endorsed by 42 School, and these badges are not official 42 achievements.
+
+---
+
 ## 💬 Feedback
 
 Any suggestion is very welcome! If you have an idea, spot a mistake, or a project is missing, please [open an issue](https://github.com/SaraFreitas-dev/42_School_Badges/issues).
